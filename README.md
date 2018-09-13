@@ -1,1 +1,1 @@
-# grapgql-learn-demo
+# grapgql-learn-demos
