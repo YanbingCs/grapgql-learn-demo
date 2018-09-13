@@ -30,6 +30,9 @@ public class GraphQL_argument {
         user.setIntro("cloud-platform,GraphQL test");
         users.add(user);
 
+
+
+
         user=new User();
         user.setName("myb");
         user.setSex("男");
