@@ -60,8 +60,7 @@ public class GraphQL_union {
                     return  null;
                 })
                 .build();
-
-
+        
         //定义暴露给客户端的查询query api
         GraphQLObjectType queryType = newObject()
                 .name("animalQuery")

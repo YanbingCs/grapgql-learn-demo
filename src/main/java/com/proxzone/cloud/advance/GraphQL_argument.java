@@ -118,6 +118,10 @@ public class GraphQL_argument {
                 .mutation(mutaionType)
                 .build();
 
+
+
+
+        System.out.println(schema);
         //测试输出
         GraphQL graphQL = GraphQL.newGraphQL(schema).build();
         //根据Id查询用户
